@@ -121,6 +121,8 @@ Open a terminal window, and navigate to your Downloads directory: <br>
 
 **Optional:** *to clean the folder from the compilation files, write "make clean".*
 
+<br
+
 ### Windows
 -----------------
 
