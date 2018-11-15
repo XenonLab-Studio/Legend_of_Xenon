@@ -43,11 +43,7 @@ Will you be so brave as to descend into the abyss without end and gain eternal g
 ## GAMEPLAY INFORMATION
 -----------------------
 
-Legend of Xenon v1.7 has a very simple concept: Kill as many monsters
-as you can and amass as much gold as you can, diving ever deeper into Stephen
-Infinite Dungeon, until you die.  There is no "victory" condition; the only
-objective provided by the design is "see how far you get, how much gold you
-gather, and how many monsters you kill".
+Legend of Xenon has a very simple concept: Kill as many monsters as you can and amass as much gold as you can, diving ever deeper into infinite Dungeon, until you die. There is no "victory" condition; the only objective provided by the design is "see how far you get, how much gold you gather, and how many monsters you kill".
 
 There are no new gameplay features currently planned.
 
