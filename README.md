@@ -50,6 +50,7 @@ objective provided by the design is "see how far you get, how much gold you
 gather, and how many monsters you kill".
 
 There are no new gameplay features currently planned.
+
 <br>
 
 NEW FEATURES IN RELEASE 1.7
