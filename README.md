@@ -60,6 +60,8 @@ NEW FEATURES IN RELEASE 1.7
 * Necromantic bolts and lightning bolts now use pure-agility defence.
 * Once your food counter hits the lower end cap, rings of regeneration
   cease to function.
+  
+<br>
 
 BUG FIXES IN RELEASE 1.7
 ------------------------
