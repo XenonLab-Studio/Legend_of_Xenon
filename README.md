@@ -29,10 +29,6 @@
 </pre>
 <br>
 
-###### Legend of Xenon is a classic roguelike game in which you explore a big dungeon in search of loot and glory.
-
-<br>
-
 ## ABOUT THE GAME
 -----------------
 
@@ -54,6 +50,7 @@ objective provided by the design is "see how far you get, how much gold you
 gather, and how many monsters you kill".
 
 There are no new gameplay features currently planned.
+<br>
 
 NEW FEATURES IN RELEASE 1.7
 ---------------------------
