@@ -66,8 +66,6 @@ Open a terminal window, and navigate to your Downloads directory: <br>
 
 2018 - Stefano Peris <xenonlab.develop@gmail.com>
 
-Github repository: <https://github.com/XenonLab-Studio/The_Dungeon_of_Sin.git>
-
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
