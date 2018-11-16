@@ -30,8 +30,7 @@
 <br>
 
 
-## INSTALLATION INSTRUCTIONS
-----------------------------
+## INSTALLATION
 
 ### Linux, Unix, MacOS
 ----------------------
