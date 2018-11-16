@@ -46,10 +46,10 @@ $ sudo pacman -S git base-devel cmake ncurses
 
 **Build**
 Open a terminal window, and navigate to your Downloads directory: <br>
-1. **$ git clone https://github.com/XenonLab-Studio/Legend_of_Xenon** <br>
-2. **$ cd Legend_of_Xenon** <br>
+1. **$ git clone https://github.com/XenonLab-Studio/The_Legend_of_Xenon** <br>
+2. **$ cd The_Legend_of_Xenon** <br>
 3. **$ make** <br>
-4. **$ ./legend_of_xenon** to start the game!
+4. **$ ./the_legend_of_xenon** to start the game!
 
 **Optional:** *to clean the folder from the compilation files, write "make clean".*
 

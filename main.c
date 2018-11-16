@@ -517,7 +517,7 @@ void main_loop(void)
     enum game_cmd cmd;
     int i;
     int action_speed;
-    print_msg("Welcome to Stephen Infinite Dungeon.\n");
+    print_msg("Welcome to Infinite Dungeon.\n");
     print_msg("Press '?' for help.\n");
     while (!game_finished)
     {

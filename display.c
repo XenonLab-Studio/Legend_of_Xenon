@@ -260,7 +260,7 @@ int display_init(void)
     idcok(status_window, FALSE);
     idcok(world_window, FALSE);
     idcok(message_window, FALSE);
-    mvwprintw(world_window, 6, 5, "Legend of Xenon");
+    mvwprintw(world_window, 6, 5, "The Legend of Xenon");
     mvwprintw(world_window, 7, 5, "by Stephen P.");
     mvwprintw(world_window, 9, 5, "Version %d.%d", MAJVERS, MINVERS);
     wmove(message_window, 0, 0);

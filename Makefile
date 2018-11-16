@@ -1,10 +1,10 @@
-# Makefile for Legend of Xenon
+# Makefile for The Legend of Xenon
 #
 # Linux/gcc only; I'm writing this in riceboy-hacker mode.
 
 OBJS=bmagic.o combat.o display.o main.o map.o misc.o monsters.o mon2.o objects.o permobj.o permons.o pmon2.o rng.o u.o vector.o
 
-GAME=legend_of_xenon
+GAME=the_legend_of_xenon
 # MPR: per <lj user="ewx">, users are advised to remove -Werror when
 # building on Darwin due to a bug in Darwin's version of "ncurses.h".
 #
@@ -20,7 +20,7 @@ $(GAME): $(OBJS)
 	$(CC) $(OBJS) $(LINKFLAGS) -o $(GAME)
 
 archive: clean
-	(cd .. && tar cvzf legend_of_xenon-$(MAJVERS).$(MINVERS).tar.gz legend_of_xenon-$(MAJVERS).$(MINVERS))
+	(cd .. && tar cvzf the_legend_of_xenon-$(MAJVERS).$(MINVERS).tar.gz the_legend_of_xenon-$(MAJVERS).$(MINVERS))
 
 clean:
 	-rm -f *.o $(GAME) lox.log lox.sav.gz
