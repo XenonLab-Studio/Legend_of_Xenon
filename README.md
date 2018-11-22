@@ -32,7 +32,7 @@
 
 ## INSTALLATION
 
-### Linux, Unix, MacOS
+### Unix/Linux, MacOS
 ----------------------
 
 On Linux (and other Unix-like systems), I do not guarantee that it will work
@@ -58,13 +58,13 @@ Open a terminal window, and navigate to your Downloads directory: <br>
 ### Windows
 -----------------
 
-*It is apparently possible to build this code for Windows 10 (compiler MingGW), at the moment I do not have specific details*.
+*It is apparently possible to build this code for Windows 10 (compiler MinGW), at the moment I do not have specific details*.
 
 <br>
 
 ## LICENSE
 
-2018 - Stefano Peris <xenonlab.develop@gmail.com>
+(c) 2018 Stefano Peris <xenonlab.develop@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
