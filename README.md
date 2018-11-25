@@ -31,7 +31,6 @@
 ## INSTALLATION
 
 ### Unix/Linux, MacOS
-----------------------
 
 On Linux (and other Unix-like systems), I do not guarantee that it will work
 under Windows and MacOS, in case of problems contact me:
@@ -58,7 +57,6 @@ Open a terminal window, and navigate to your Downloads directory:
 <br>
 
 ### Windows
------------------
 
 *It is apparently possible to build this code for Windows 10 (compiler MinGW), at the moment I do not have specific details*.
 
