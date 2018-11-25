@@ -27,8 +27,6 @@
               ^^\..___,.--`
                                                                     
 </pre>
-<br>
-
 
 ## INSTALLATION
 
@@ -38,19 +36,23 @@
 On Linux (and other Unix-like systems), I do not guarantee that it will work
 under Windows and MacOS, in case of problems contact me:
 
-**Linux Ubuntu/Mint:**
-$ sudo apt-get install git build-essential cmake libncurses5-dev libncursesw5-dev
-
-**Arch Linux/Manjaro:**
-$ sudo pacman -S git base-devel cmake ncurses
+```bash
+Linux Ubuntu/Mint:
+sudo apt-get install git build-essential cmake libncurses5-dev libncursesw5-dev
+```
+```bash
+Arch Linux/Manjaro:
+sudo pacman -S git base-devel cmake ncurses
+```
 
 **Build**
-Open a terminal window, and navigate to your Downloads directory: <br>
-1. **$ git clone https://github.com/XenonLab-Studio/The_Legend_of_Xenon** <br>
-2. **$ cd The_Legend_of_Xenon** <br>
-3. **$ make** <br>
-4. **$ ./the_legend_of_xenon** to start the game!
-
+Open a terminal window, and navigate to your Downloads directory:
+```bash
+1. git clone https://github.com/XenonLab-Studio/The_Legend_of_Xenon
+2. cd The_Legend_of_Xenon
+3. make
+4. ./the_legend_of_xenon # to start the game!
+```
 **Optional:** *to clean the folder from the compilation files, write "make clean".*
 
 <br>
