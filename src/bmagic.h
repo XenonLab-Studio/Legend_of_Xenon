@@ -2,7 +2,7 @@
 
 2019 - Stefano Peris <xenonlab.develop@gmail.com>
 
-Github repository: <https://github.com/XenonLab-Studio/The_Dungeon_of_Sin.git>
+Github repository: <https://github.com/XenonLab-Studio/The_Legend_of_Xenon.git>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
