@@ -260,9 +260,9 @@ int display_init(void)
     idcok(status_window, FALSE);
     idcok(world_window, FALSE);
     idcok(message_window, FALSE);
-    mvwprintw(world_window, 6, 5, "The Legend of Xenon");
-    mvwprintw(world_window, 7, 5, "by Stephen P.");
-    mvwprintw(world_window, 9, 5, "Version %d.%d", MAJVERS, MINVERS);
+    mvwprintw(world_window, 7, 5, "THE LEGEND OF XENON"); // default 6, 5
+    mvwprintw(world_window, 9, 5, "by Stephen Peris");
+    mvwprintw(world_window, 10, 5, "Version %d.%d", MAJVERS, MINVERS);
     wmove(message_window, 0, 0);
     map_updated = FALSE;
     status_updated = FALSE;

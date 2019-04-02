@@ -37,6 +37,12 @@ int game_finished;
 int game_tick;
 int wizard_mode = WIZARD_MODE;
 
+/*Cleans the screen on Windows (cmd.exe), Linux (Bash and zsh) and OS X (zsh):*/
+void clrscr()
+{
+    system("@cls||clear");
+}
+
 static void rebuild_mapmons(void)
 {
     int i;
@@ -475,6 +481,8 @@ int do_command(enum game_cmd cmd)
 	if (j > 0)
 	{
 	    game_finished = 1;
+	    clrscr();
+	    printf("Thank you for playing The Legend of Xenon ;)\n\n");
 	}
 	else
 	{
@@ -517,7 +525,7 @@ void main_loop(void)
     enum game_cmd cmd;
     int i;
     int action_speed;
-    print_msg("Welcome to Infinite Dungeon.\n");
+    print_msg("Welcome to The Legend of Xenon.\n");
     print_msg("Press '?' for help.\n");
     while (!game_finished)
     {
