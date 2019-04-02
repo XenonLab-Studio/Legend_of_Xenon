@@ -49,8 +49,9 @@ Open a terminal window, and navigate to your Downloads directory:
 ```bash
 1. git clone https://github.com/XenonLab-Studio/The_Legend_of_Xenon
 2. cd The_Legend_of_Xenon
-3. make
-4. ./the_legend_of_xenon # to start the game!
+3. cd src
+4. make
+5. ./tlox # to start the game!
 ```
 **Optional:** *to clean the folder from the compilation files, write "make clean".*
 
@@ -64,7 +65,7 @@ Open a terminal window, and navigate to your Downloads directory:
 
 ## LICENSE
 
-(c) 2018 Stefano Peris <xenonlab.develop@gmail.com>
+(c) 2019 Stefano Peris <xenonlab.develop@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
